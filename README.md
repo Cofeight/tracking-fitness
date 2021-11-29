@@ -6,7 +6,7 @@
 
 
 ## Description
-    A personal application to log and keep track of your daily workouts.
+   A personal application to log and keep track of your daily workouts.
 
 ## Table of Contents
 
@@ -20,23 +20,23 @@
 
 
 ## Installation
-    npm requirements can be found in the server.js file; node server.js to initiate site.
+   npm requirements can be found in the server.js file; node server.js to initiate site.
 
 ## Usage
    Users can keep detailed track of their fitness and see a graphical layout of their workout data as it is accumulated.
 
 ## License
-    MIT
+   MIT
 
 ## Tests
-    Currently no tests have been developed for this application.
+   Currently no tests have been developed for this application.
     
 ## Contributions
-    Users should feel free to post any issues noted from the application.
+   Users should feel free to post any issues noted from the application.
 
 
 ## Questions
-    With any questions, please contact the owner of this project by following the links below.
+   With any questions, please contact the owner of this project by following the links below.
 
 ## Contact Info
 
