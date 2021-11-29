@@ -23,7 +23,7 @@
     npm requirements can be found in the server.js file; node server.js to initiate site.
 
 ## Usage
-    Users can keep detailed track of their fitness and see a graphical layout of their workout data as it is accumulated.
+   Users can keep detailed track of their fitness and see a graphical layout of their workout data as it is accumulated.
 
 ## License
     MIT
