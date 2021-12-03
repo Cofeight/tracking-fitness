@@ -4,7 +4,7 @@
 
 # Fitness Tracker
 
-## [Fitness Tracker](https://vast-dawn-82325.herokuapp.com/?id=61a970d2bb5c0400168d320d)
+## [Click here for live app](https://vast-dawn-82325.herokuapp.com/?id=61a970d2bb5c0400168d320d)
 
 ## Description
    A personal application to log and keep track of your daily workouts.
